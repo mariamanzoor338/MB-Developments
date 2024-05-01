@@ -1,6 +1,6 @@
 import toast from "react-hot-toast";
 
-export const BASE_URL = "https://backend-server-hero.onrender.com";
+export const BASE_URL = "https://mb-developments-backend.vercel.app";
 
 export const fetchHeroes = async () => {
     try {
